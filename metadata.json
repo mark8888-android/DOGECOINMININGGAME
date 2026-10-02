@@ -1,0 +1,8 @@
+{
+  "name": "Dogecoin Core 3-Rig Miner",
+  "description": "Industrial Dogecoin Core mining cabinet with 3-miner concurrent rig slots, 25% house cut cashier pool, automated 60-second Dogecoind JSON-RPC payouts, and full node admin console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
